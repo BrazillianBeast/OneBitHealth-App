@@ -1,6 +1,4 @@
-<p align="center">
   # OneBitHealth
-</p>
 <p align="center">
   One app to help you all to calculate your BMC and stay lit🔥!
 </p>
